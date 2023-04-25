@@ -1,0 +1,3 @@
+requests
+pymorphy2
+deep_translator
